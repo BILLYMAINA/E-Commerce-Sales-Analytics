@@ -1,7 +1,6 @@
 # E-Commerce Sales Analytics Dashboard
 
-A real-world **Power BI project** analyzing e-commerce performance across customer segments, product categories, and regions.  
-This project demonstrates end-to-end analytics, from **data cleaning in Excel** and **data processing in SQL Server** to **data modeling and visualization in Power BI**, turning raw sales data into actionable business insights.
+A real-world **Power BI project** analyzing e-commerce performance across customer segments, product categories, and regions. This project demonstrates end-to-end analytics, from **data cleaning in Excel** and **data processing in SQL Server** to **data modeling and visualization in Power BI**, turning raw sales data into actionable business insights.
 
 <img width="888" height="495" alt="Sales Analytics" src="https://github.com/user-attachments/assets/533f10c2-3248-4bd7-84ef-c9f397bda17f" />
 
